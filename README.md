@@ -1,2 +1,2 @@
-# testRest
-Testing somethings using RestAssured in JAVA
+# testRestAPI
+Testing APIs using RestAssured in JAVA
